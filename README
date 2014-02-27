@@ -1,0 +1,4 @@
+This is a small project to learn about clustering daily blood glucose levels to gain insight on personal habits.
+
+It started with a day in 2014 when I suddenly had to dive into this stuff. Type-I-diabetes people measure their blood glucose quite frequently and produce a lot of data every day. I thought it might be helpful to get another way of looking at this data. Clustering shows similarities between single days and reveals patterns. So this project is about finding a good way to cluster blood glucose levels and making something cool out of it, of course.
+
